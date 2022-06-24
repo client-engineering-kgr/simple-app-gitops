@@ -19,7 +19,7 @@ spec:
         app.kubernetes.io/instance: simple-app
     spec:
       containers:
-        - image: agbate.jfrog.io/default-docker-virtual/simple-app-gitops:1860192e851b
+        - image: agbate.jfrog.io/default-docker-virtual/simple-app-gitops:7bf4b98df4bd
           imagePullPolicy: Always
           name: container-image
           resources: {}
