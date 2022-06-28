@@ -6,7 +6,7 @@
 # 💁 The Gitops Starter workflow will:
 # - Checkout your repository
 # - Perform a container image build
-# - Push the built image to the GitHub Container Registry (GHCR)
+# - Push the built image to the Jfrog Artifactory (JFROG)
 # - Send a pull request to this repo to update the deployment yaml
 
 name: Build-Gitops-Workflow 
