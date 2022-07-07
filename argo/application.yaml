@@ -10,7 +10,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   source:
     path: deploy
-    repoURL:  https://github.com/client-engineering-kgr/simple-app-gitops
+    repoURL:  https://github.com/client-engineering-k/simple-app-gitops
     targetRevision: HEAD
     directory:
       recurse: true
